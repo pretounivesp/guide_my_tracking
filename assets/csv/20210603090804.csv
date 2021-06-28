@@ -1,0 +1,2 @@
+time,lat,lon,elevation,accuracy,bearing,speed,satellites,provider,hdop,vdop,pdop,geoidheight,ageofdgpsdata,dgpsid,activity,battery,annotation
+2021-06-03T12:08:06.787Z,-21.1990728,-47.8225183,0.0,48.687,,0.0,0,gps,,,,,,,,24,
