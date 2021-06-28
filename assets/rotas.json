@@ -1,0 +1,74 @@
+
+    [
+        {
+            "title": "Portaria da Avenida do Café até o inicio da Rotatória Central",
+            "photo": "assets/images/test2_16x9.jpeg",
+            "description": "teste da imagem full",
+            "distance": 970
+        },
+
+        {
+            "title": "Portaria da Avenida do Café até o fim da Rua Clóvis Vieria",
+            "photo": "assets/images/test2_16x9.jpeg",
+            "description": "teste da imagem 16:9",
+            "distance": 2340 
+        },
+
+        {
+            "title": "Portaria da Avenida do Café até completar a volta no lago",
+            "photo": "assets/images/test2_16x9.jpeg",
+            "description": "teste da imagem 3x4",
+            "distance": 3300
+        },
+
+        {
+            "title": "Portaria da Avenida do Café até a fim da Rua dos Técnicos",
+            "photo": "assets/images/test2_16x9.jpeg",
+            "description": "teste da imagem 1x1",
+            "distance": 2060
+        },
+
+        {
+            "title": "Portaria da Avenida do Café até a fim da Rua do Lago",
+            "photo": "assets/images/test2_16x9.jpeg",
+            "description": "teste da imagem 16x9 segunda imagem",
+            "distance": 2210
+        },
+
+        {
+            "title": "Portaria da Avenida dos Bandeirantes até completar a volta no lago",
+            "photo": "assets/images/test2_16x9.jpeg",
+            "description": "teste da imagem full",
+            "distance": 2730
+        },
+
+        {
+            "title": "Portaria da Avenida dos Bandeirantes até completar a volta na Rotatória Central",
+            "photo": "assets/images/test2_16x9.jpeg",
+            "description": "teste da imagem full",
+            "distance": 2060
+        },
+
+        {
+            "title": "Portaria da Avenida dos Bandeirantes até Portaria da Avenida do Café",
+            "photo": "assets/images/test2_16x9.jpeg",
+            "description": "teste da imagem full",
+            "distance": 1800
+        },
+
+        {
+            "title": "Calçada ao redor do Bandejão",
+            "photo": "assets/images/test2_16x9.jpeg",
+            "description": "teste da imagem full",
+            "distance": 1700
+        },
+
+        {
+            "title": "Portaria da Avenida do Café até o fim da Avenida do Café",
+            "photo": "assets/images/test2_16x9.jpeg",
+            "description": "teste da imagem full",
+            "distance": 2900
+        }
+
+    ]
+ 
